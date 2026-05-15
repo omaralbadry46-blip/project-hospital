@@ -9,7 +9,7 @@ Admin::Admin(int id, string username, string password) : User(id, username, pass
 
 // Login
 bool Admin::login(string inputUsername, string inputPassword) {
-    if (this->username == inputUsername && this->password == inputPassword) {
+    if (username == inputUsername && password == inputPassword) {
         return true;
     }
     return false;
