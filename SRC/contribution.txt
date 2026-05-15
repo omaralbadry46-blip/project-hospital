@@ -1,0 +1,41 @@
+================================================================================
+                HOSPITAL MANAGEMENT SYSTEM - WORKLOAD DISTRIBUTION
+================================================================================
+
+As a team of 5 first-year Computer Science students at Egypt University of 
+Informatics (EUI), we collaborated to complete Phase 2 of our project. Below 
+is the breakdown of tasks and responsibilities assigned to each team member.
+
+1. Omar El-Farouk - Team Lead & Lead Developer
+   - Acted as the primary point of contact and coordinated project milestones.
+   - Developed the Admin class and its related functionalities (Adding/Removing 
+     doctors and patients).
+   - Implemented the Bonus Feature: File I/O for data persistence (saving and 
+     loading data from text files).
+   - Oversaw the integration of the final main application loop in HospitalManager.cpp.
+
+2. mazen mohamed - Backend Developer
+   - Implemented the core OOP architecture for the User, Doctor, and Patient classes.
+   - Handled inheritance, abstract class setup, and polymorphism implementations.
+   - Developed the appointment booking logic and slot management system.
+   - Implemented the Bonus Feature: Advanced Search functionality (search by 
+     specialty and available slots).
+
+3. Abdullah khalid - Systems Designer
+   - Designed the UML Class Diagrams for Phase 1 and updated them for Phase 2.
+   - Designed the flow of the console-based UI menus.
+   - Ensured that Encapsulation and proper class associations were maintained 
+     throughout the codebase.
+
+4. Khaled waleed - QA & Testing Specialist
+   - Responsible for overall system stability and edge-case testing.
+   - Implemented the strict Input Validation logic (using while loops and string 
+     parsing) across all menus to prevent program crashes from invalid input.
+   - Conducted full system testing to verify correct interactions between the 
+     Admin, Doctor, and Patient modules.
+
+5. eyad mohamed - Documentation & Technical Writer
+   - Authored the README.txt and User Manual.
+   - Formatted the code with clear, student-friendly comments to explain the logic.
+   - Wrote the final Project Report, ensuring academic tone and accurate 
+     explanation of the OOP concepts applied.

@@ -1,0 +1,23 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+*.out
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.user
+
+# Project specific
+SRC/HospitalSystem.exe
+SRC.zip
